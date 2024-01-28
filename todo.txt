@@ -1,0 +1,14 @@
+# conda environment
+# requirements.txt
+	- pre-commit
+	- python==3.10
+### Linter.###
+### README.md file ###
+### pre-commit hooks ###
+# .gitignore files
+# plan your program
+# script
+# documentation
+# tests
+# github actions
+# publish
